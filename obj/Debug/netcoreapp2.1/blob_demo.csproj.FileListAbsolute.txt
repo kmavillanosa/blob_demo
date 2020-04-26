@@ -1,0 +1,14 @@
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\bin\Debug\netcoreapp2.1\blob_demo.deps.json
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\bin\Debug\netcoreapp2.1\blob_demo.runtimeconfig.json
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\bin\Debug\netcoreapp2.1\blob_demo.runtimeconfig.dev.json
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\bin\Debug\netcoreapp2.1\blob_demo.dll
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\bin\Debug\netcoreapp2.1\blob_demo.pdb
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.csprojAssemblyReference.cache
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.csproj.CoreCompileInputs.cache
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.RazorAssemblyInfo.cache
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.RazorAssemblyInfo.cs
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.AssemblyInfoInputs.cache
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.AssemblyInfo.cs
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.RazorTargetAssemblyInfo.cache
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.dll
+C:\Users\kmavillanosa\source\repos\blob_demo\blob_demo\obj\Debug\netcoreapp2.1\blob_demo.pdb
